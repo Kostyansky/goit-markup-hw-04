@@ -164,7 +164,6 @@ a {
 
 .main-title-list {
     background: var(--NAVY-BLUE, #2e2f42);
-    background-image: linear-gradient(var(--GREY, rgba(46, 47, 66, 0.70)), var(--GREY, rgba(46, 47, 66, 0.70))), url(../images/people-office\ 1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
