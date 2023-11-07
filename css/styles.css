@@ -410,6 +410,10 @@ a {
     transform: translateY(0%);
 }
 
+.main-item-portfolio:hover .portfolio-image-text {
+    transform: translateY(0%);
+}
+
 .image-portfolio-container {
     position: relative;
     overflow: hidden;
