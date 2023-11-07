@@ -485,6 +485,7 @@ a {
     color: var(--WHITE, #FFFFFF);
     font-size: 16px;
     font-weight: 500;
+    letter-spacing: 0.02em;
     line-height: 1.5;
     margin-bottom: 16px;
 }
